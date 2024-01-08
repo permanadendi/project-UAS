@@ -6,3 +6,7 @@
 <p> Program harus meminta input pilihan makanan dari pengguna.
 <p> Program harus menghitung total harga makanan yang dipesan.
 <p> Program harus menampilkan struk pembelian.
+
+![Gambar 1](screenshot/code.png)
+
+![Gambar 2](screenshot/1.png)
